@@ -1,5 +1,5 @@
 {
-	"name": "heyday/silverstripe-adaptivecontent",
+	"name": "tomstgeorge/silverstripe-adaptivecontent",
 	"type": "silverstripe-module",
 	"description": "SilverStripe Adaptive Content",
 	"authors": [
@@ -10,7 +10,7 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"Heyday\\AdaptiveContent\\SilverStripe\\": "src"
+			"Tomstgeorge\\AdaptiveContent\\SilverStripe\\": "src"
 		}
 	},
 	"require": {
